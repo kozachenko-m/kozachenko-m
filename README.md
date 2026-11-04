@@ -8,4 +8,4 @@ Senior full-stack engineer and former CTO, based in Bratislava.
 
 Most of my work lives in private repos. Portfolio: [max.kozachenko.io](https://max.kozachenko.io)
 
-Stack: TypeScript, React / Next.js, Node, Postgres, Convex, Kubernetes, Claude Code, Codex.
+Stack: TypeScript, React / Next.js, Node, Postgres, Convex, Kubernetes, Claude Code, Codex, T3 Code
